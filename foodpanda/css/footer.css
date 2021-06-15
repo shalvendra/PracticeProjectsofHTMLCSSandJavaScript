@@ -1,0 +1,21 @@
+footer{
+    height: 130px;
+    padding: 40px 80px;
+  }
+  .left{
+display: inline-block;
+  }
+  .left img{
+width: 178px;
+height: 40px;
+  }
+  .right{
+    float: right;
+  }
+  .right img{
+      margin-left: 10px;
+  }
+  .right a{
+      text-decoration: none;
+      color: #333333;
+  }

@@ -1,0 +1,38 @@
+
+header {
+  background-color: #3c8cf0;
+  width: 95%;
+  position: fixed;
+  margin: 0px 27px;
+}
+nav {
+  border: solid;
+  width: 60%;
+  overflow: hidden;
+}
+.logo {
+  float: left;
+  padding: 13px 10px;
+}
+.menu {
+  float: left;
+}
+img {
+  width: 157px;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  text-decoration: none;
+  color: white;
+  float: left;
+  padding: 10px;
+}
+* {
+  box-sizing: border-box;
+}
+.header {
+  height: 75px;
+  position: relative;
+}

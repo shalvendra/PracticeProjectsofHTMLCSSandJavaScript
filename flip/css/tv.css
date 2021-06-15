@@ -1,0 +1,127 @@
+* {
+    box-sizing: border-box;
+    margin: 20 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #f1f3f6;
+}
+
+.upper {
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    background-color: white;
+}
+
+.lower-left {
+    height: 500px;
+    width: 35%;
+    float: left;
+    position: fixed;
+}
+
+#tv {
+    margin: 50px 91px;
+    border: 2px solid #f1f3f6;
+    height: 300px;
+    width: 337px;
+    background-image: url(https://rukminim1.flixcart.com/image/416/416/knni7ww0/television/4/j/j/qa55qn90aaklxl-samsung-original-imag2a6bghzqsw6x.jpeg?q=70);
+    background-repeat: no-repeat;
+    background-position: 6px 33px;
+}
+
+.buttons {
+    margin-left: 100px;
+    height: 50px;
+}
+
+.imgancor {
+    text-decoration: none;
+    float: left;
+    margin-left: 20px;
+    color: white;
+
+}
+
+#cart {
+    background-color: #ff9f00;
+    height: 40px;
+    border-radius: 4px;
+    padding: 10px 10px;
+    width: 130px;
+}
+
+#preorder {
+    height: 40px;
+    background-color: #fb641b;
+    border-radius: 4px;
+    padding: 10px 20px;
+    width: 130px;
+}
+
+.lower-right {
+    width: 60%;
+    float: right;
+    padding-left: 10px;
+}
+
+
+#des {
+    border: solid;
+
+}
+
+.d1 {
+    overflow: hidden;
+}
+
+#i1 {
+    float: right;
+    margin-right: 10px;
+    margin-top: -50px;
+}
+
+#i2 {
+    font: left;
+    width: 26%;
+    margin-top: 15px;
+}
+
+#dis1 {
+    float: left;
+}
+
+#dis2 {
+    float: right;
+    width: 73%;
+    margin-top: -120px;
+}
+
+h4 {
+    color: red;
+}
+
+dt {
+    float: left;
+    clear: left;
+    width: 100px;
+    text-align: left;
+    font-weight: bold;
+}
+
+dt::after {
+    content: ":";
+}
+
+dd {
+    margin: 0 0 0 110px;
+    padding: 0 0 0.5em 0;
+}
+
+#spe h2 {
+    border-top: 1px solid;
+    padding-top: 20px;
+
+}

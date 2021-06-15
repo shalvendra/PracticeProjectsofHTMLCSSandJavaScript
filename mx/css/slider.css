@@ -1,0 +1,16 @@
+ #img{
+margin-top: 64px;
+margin-bottom: 30px;
+height: 470px;
+background-size: cover;
+background-image: url("https://qqcdnpictest.mxplay.com/pic/b20ae0bec5a653371e5c9c5dea14e22d/en/40x13/1600x520/test_pic1616691664432.webp");
+}
+.slider h2{
+margin-top: 350px;
+color: aliceblue;
+text-align: center;
+}
+.slider h3{
+color: aliceblue; 
+text-align: center;
+}  

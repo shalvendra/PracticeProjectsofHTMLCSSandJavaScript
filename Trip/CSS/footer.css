@@ -1,0 +1,94 @@
+.footer-top {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+.footer-top h1 {
+    line-height: 130px;
+    text-transform: uppercase;
+    font-weight: 100;
+    padding: 4px 0px 0px;
+    margin: 0px 0px -30px;
+    font-size: 26px;
+}
+
+.footer-top p {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 15px;
+    margin: 0px 0px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer-top input[type=text] {
+    width: 230px;
+    height: 42px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.footer-top input[type=submit] {
+    height: 42px;
+    width: 100px;
+    background-color: #4a4848;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+::selection {
+    background-color: #FFF7B6;
+}
+
+.footer-bottom {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+    margin-bottom: 40px;
+}
+
+.icon a i:hover {
+    color: red;
+}
+
+.left {
+    width: 242px;
+    height: 280%;
+    float: left;
+}
+
+.left h6 {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.right h6 {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.left ul a {
+    text-decoration: none;
+    list-style: none;
+}
+
+.left ul a li {
+    color: #404040;
+    font-size: 15px;
+    margin: 10px 0px;
+}
+
+.right {
+    float: right;
+    width: 300px;
+    height: 260px;
+    margin-right: 610px;
+}
+
+.right p {
+    color: #404040;
+    font-size: 15px;
+    margin: 10px 0px;
+}

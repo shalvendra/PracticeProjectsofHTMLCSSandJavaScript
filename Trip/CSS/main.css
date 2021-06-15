@@ -1,0 +1,22 @@
+.slider {
+    margin-top: 85px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.image-container {
+    width: 80%;
+    margin: auto;
+}
+
+.image-container img {
+    height: 580px;
+    width: 580px;
+    display: inline-block;
+    padding: 10px 10px;
+}
+
+.qw {
+    margin-top: 20px;
+    width: 100%;
+}
